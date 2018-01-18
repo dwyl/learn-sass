@@ -4,7 +4,7 @@ Learn how to use Sass the CSS extension language
 ## What?
 
 [Sass](http://sass-lang.com) (Stylistically Awesome Stylesheets) is a CSS
-extension language, the bulkier version of it's thinner sibling
+extension language or preprocessor. It's the bulkier version of it's thinner sibling
 [Less](http://lesscss.org/). It has versions that are compatible with Node
 and Ruby, it is also included within
 [Bootstrap v4](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
@@ -39,4 +39,35 @@ $primary-color: hotpink;
 }
 ```
 
-You can now use either syntax in your projects.
+You can now use either syntax in your projects. SCSS is more widespread and
+may be preferred due to its fully compatibility with CSS.
+
+- What languages can I use Sass with?
+- How big is it?
+
+- What's a CSS preprocessor?
+A layer between the stylesheets you create and the `.css` files that are seen in
+the browser.
+
+- Parts of Sass
+ - Variables
+ - Mixins (reusable blocks of styles)
+
+- What language do I write Sass in?
+You can write Sass in either Sass or SCSS (_Sassy CSS_). Sass was the original
+language with which Sass was created. It's based on Ruby and not so closely
+linked to css. But in 2010 SCSS was introduced to encourage more people to learn
+Sass. SCSS is a superset of CSS3; any valid CSS3 file is a valid SCSS file as well.
+
+### Pros
+
+- Values that are used frequently in your project but aren't standard CSS e.g. colours, fonts.
+- Easier to maintain
+- More efficient
+- Faster
+- Adheres to DRY (Don't Repeat Yourself) principle
+
+### Cons
+
+- Needless complication
+- Bloat
