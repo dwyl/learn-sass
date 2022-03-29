@@ -17,7 +17,7 @@ Ruby-like syntax with no braces, semi-colons and a strict indentation.
 Then in May 2010 Sass introduced a new syntax called SCSS for _Sassy CSS_. This
 syntax is a hybrid of the old Sass and CSS syntax:
 
-```
+```css
 // Variable
 $primary-color: hotpink;
 
