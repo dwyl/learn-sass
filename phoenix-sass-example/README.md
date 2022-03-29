@@ -182,7 +182,7 @@ With:
   "esbuild default --minify",
   "sass default --no-source-map --style=compressed",
   "phx.digest"
-]
+],
 ```
 
 The addition is the `sass default` command
