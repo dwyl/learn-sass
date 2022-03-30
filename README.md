@@ -4,7 +4,7 @@ Learn how to use Sass the CSS extension language
 ## What?
 
 [Sass](http://sass-lang.com) (Stylistically Awesome Stylesheets) is a CSS
-extension language or preprocessor. It's the bulkier version of it's thinner sibling
+extension language or preprocessor. It's the bulkier version of its thinner sibling
 [Less](http://lesscss.org/). It has versions that are compatible with Node
 and Ruby, it is also included within
 [Bootstrap v4](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
@@ -40,7 +40,7 @@ $primary-color: hotpink;
 ```
 
 You can now use either syntax in your projects. SCSS is more widespread and
-may be preferred due to its fully compatibility with CSS.
+may be preferred due to its full compatibility with CSS.
 
 - What languages can I use Sass with?
 - How big is it?
