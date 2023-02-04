@@ -3,14 +3,14 @@ Learn how to use Sass the CSS extension language
 
 ## What?
 
-[Sass](http://sass-lang.com) (Stylistically Awesome Stylesheets) is a CSS
+[Sass](https://sass-lang.com) (Stylistically Awesome Stylesheets) is a CSS
 extension language or preprocessor. It's the bulkier version of its thinner sibling
-[Less](http://lesscss.org/). It has versions that are compatible with Node
+[Less](https://lesscss.org/). It has versions that are compatible with Node
 and Ruby, it is also included within
 [Bootstrap v4](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
 
 ## History
-Sass originated from another preprocessor called [Haml](http://haml.info/) which
+Sass originated from another preprocessor called [Haml](https://haml.info/) which
 was written by Ruby developers. For that reason, Sass stylesheets used a
 Ruby-like syntax with no braces, semi-colons and a strict indentation.
 
